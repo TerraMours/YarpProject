@@ -39,4 +39,8 @@ Yarp.ReverseProxy 是一个 .NET Core 平台下的反向代理库，它提供了
 
 
 
+项目构建和Docker发布可参考我个人博客的相关文章
+
+[www.raokun.top](www.raokun.top)
+
 欢迎加群讨论：592463354
