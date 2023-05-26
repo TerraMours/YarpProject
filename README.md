@@ -1,4 +1,6 @@
 # YarpProject
+![License: MIT](https://img.shields.io/github/license/raokun/YarpProject)
+
 基于Yarp.ReverseProxy的反向代理项目，实现ChatGPT代理
 
 ## 1.项目信息
